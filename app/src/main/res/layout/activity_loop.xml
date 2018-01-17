@@ -8,6 +8,7 @@
     tools:context="nyc.c4q.midtermasessmentretake.LoopActivity">
 
     <TextView
+        android:id="@+id/textview_loops"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="20sp" />
